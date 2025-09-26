@@ -17,3 +17,8 @@ make
 ```
 
 The PDFs will be written to `./out/`.
+
+## Selected blogs
+- Cellperformance (Mike Acton)
+- Lillog (Lilian Weng)
+- Andrej Karpathy
